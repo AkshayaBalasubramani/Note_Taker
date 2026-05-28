@@ -146,5 +146,5 @@ USE_TZ = True
 STATIC_URL = 'static/'
 
 #cors permissions we could keep only specific origins could make it secure by making it specific
-CORS_ALLOWED_ALL_ORIGINS = True
+CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
