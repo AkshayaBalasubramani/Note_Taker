@@ -1,7 +1,7 @@
 schemaVersion: "1.2"
 
 endpoints:
-  - name: REST_API
+  - name: rest-api
     displayName: REST API
 
     service:
